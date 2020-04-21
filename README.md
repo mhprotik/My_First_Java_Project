@@ -1,1 +1,3 @@
-# My_First_Java_Project
+# My First Java Project
+
+CSE 8th Batch. BAUET
