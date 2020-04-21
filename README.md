@@ -1,3 +1,4 @@
-# My First Java Project
+## My First Java Project
 
-CSE 8th Batch. BAUET
+# Mehedi Hasan Protik
+## CSE 8th Batch. BAUET
